@@ -1,0 +1,59 @@
+*
+{
+    margin: 0px;
+    background-color: #cdcdcd;
+}
+p
+{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px;
+}
+.container
+{
+    margin: 25px;
+    display: flex;
+    
+    
+}
+input {
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 14px;
+    width: 1200px; 
+    
+}
+
+
+.flex-container
+{
+    
+        display: flex; /* To align buttons horizontally */
+        justify-content: space-between;
+        margin: 25px;
+        
+}
+button
+{
+    border: none;
+    padding: 5px; 
+    
+    width: 150px; 
+    cursor: pointer;
+    background-color: #000000;
+    color: #ffffff;
+    
+}
+button:hover {
+    background-color: #3E3E3E;
+}
+
+#tableContainer {
+    border-collapse: collapse;
+    width: auto;
+    
+} #tableContainer td {
+    border: 1px solid;
+    padding: 8px;
+   
+}
