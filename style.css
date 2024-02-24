@@ -3,11 +3,12 @@
     margin: 0px;
     background-color: #cdcdcd;
 }
+
 h1
 {
     background-color: #000000;
     color: #ffffff;
-    padding: 5mm;
+    padding: 5px;
 }
 .container
 {
@@ -37,7 +38,7 @@ button
 {
     border: none;
     padding: 5px; 
-    height: 35px;
+    
     width: 150px; 
     cursor: pointer;
     background-color: #000000;
